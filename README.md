@@ -1,2 +1,2 @@
-# The-Eternity-Craft
+# Eternity-Craft
 A Minecraft mod.
