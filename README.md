@@ -1,2 +1,2 @@
 # Eternity-Craft
-A Minecraft mod.
+A Minecraft modpack.
